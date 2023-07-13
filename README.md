@@ -35,7 +35,7 @@ A few suggestions for beginners:
 
 ### Day01~15 - [Python Language Basics](./Day01-15)
 
-#### Day01 - [Python for the first time](./Day01-15/01.Python for the first time.md)
+#### Day01 - [Python for the first time](https://github.com/vaibhavb02/Python-100-Days-english/blob/master/Day01-15/01.Python%20for%20the%20first%20time.md)
 
 - Introduction to Python - History of Python / Advantages and Disadvantages of Python / Application Fields of Python
 - Build a programming environment - Windows environment / Linux environment / MacOS environment
